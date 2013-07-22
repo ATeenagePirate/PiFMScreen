@@ -1,0 +1,4 @@
+Title:		Modified PiFM
+Author:		Adam Cooper
+Email:		adam.tetra@gmail.com
+Description:	Allows the Raspberry Pi to bradcast a directory (/home/pi/Music/WAV) to be broadcast them one by one over FM using a selected frequency. Four button are used over GPIO: Frequency down, up, next song, and shutdown. This also pushes information to an LCD screen connected through the GPIO.
